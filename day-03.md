@@ -17,8 +17,3 @@
 
 
 
-## Tomorrow's plan
-- Design database schema (users, events tables)
-- Add SQLAlchemy models
-- First real write endpoint
-
